@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensics/flags_are_stepic.md",
+                "file": "Cryptography/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flags_are_stepic"
+              "title": "index"
             }
           }
         ]
@@ -185,12 +185,17 @@
   },
   "active": "cbaa81906e4aadd4",
   "lastOpenFiles": [
-    "WriteUp.md",
-    "Cryptography/index.md",
-    "Network/XC18-No_Output_But_The_Secret_Leaked.md",
-    "Network/webnet1.md",
-    "Network/webnet0.md",
+    "Cryptography/basic-mod1.md",
     "Network/very_very_Hidden.md",
+    "Network/index.md",
+    "WriteUp.md",
+    "index.md",
+    "Cryptography/index.md",
+    "Cryptography/Flags.md",
+    "Network/webnet0.md",
+    "Network/webnet1.md",
+    "Forensics/flags_are_stepic.md",
+    "Network/XC18-No_Output_But_The_Secret_Leaked.md",
     "Network/Rogue_Tower.md",
     "Network/FindAndOpen.md",
     "Forensics/Weird_File.md",
@@ -199,7 +204,6 @@
     "Forensics/Forensics_Git_2.md",
     "Forensics/Forensics_Git_1.md",
     "Forensics/Forensics_Git_0.md",
-    "Forensics/flags_are_stepic.md",
     "Cryptography/transposition-trial.md",
     "Cryptography/Tapping.md",
     "Cryptography/substitution2.md",
@@ -207,10 +211,6 @@
     "Cryptography/ReadMyCert.md",
     "Cryptography/rail-fence.md",
     "Cryptography/Passwords_as_Keys.md",
-    "Cryptography/new_caesar.md",
-    "Cryptography/Mr-Worldwide.md",
-    "Cryptography/morse-code.md",
-    "Cryptography/Mini_RSA.md",
     "assets/Pasted image 20260715200414.png",
     "docs/assets/Pasted image 20260715200414.png",
     "docs/assets/Pasted image 20260715200259.png",
