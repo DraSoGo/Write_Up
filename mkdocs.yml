@@ -3,6 +3,8 @@ site_description: Collection of CTF challenge writeups and solutions
 site_author: Drasogo
 site_url: https://drasogo.github.io/Write_Up/
 
+docs_dir: .
+
 theme:
   name: material
   palette:
