@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "a72887d8b4e285f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "45163844206e2937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbaa81906e4aadd4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20260715200414.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260715200414"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96de501356238acc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e861c72b0882d0b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6724132430717c0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "86622686102e610c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "698ec2a096fd3bfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc19177d97289658",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1f2301c85c9b718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35cd1dbf3654471b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assets/Pasted image 20260715200414.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20260715200414"
+            }
+          },
+          {
+            "id": "311ecbbb7c77f447",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rogue Tower.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rogue Tower"
+            }
+          },
+          {
+            "id": "d4d16b2cccaf5afe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef6d697867dfb6a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0087b77d8f40f206",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rogue Tower.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rogue Tower"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cbaa81906e4aadd4",
+  "lastOpenFiles": [
+    "WriteUp.md",
+    "docs/WriteUp.md",
+    "docs/assets/Pasted image 20260715200414.png",
+    "docs/assets/Pasted image 20260715200259.png",
+    "docs/assets/Pasted image 20260715200243.png",
+    "docs/assets/Pasted image 20260715200210.png",
+    "docs/assets/Pasted image 20260715200157.png",
+    "docs/assets/Pasted image 20260715200138.png",
+    "docs/assets/Pasted image 20260715195745.png",
+    "docs/assets/Pasted image 20260715195635.png",
+    "docs/assets/Pasted image 20260715195455.png",
+    "docs/assets/Pasted image 20260715195432.png",
+    "docs/assets",
+    "docs/Network/index.md",
+    "docs/Network/index.md.tmp.231538.e6ba2951becb",
+    "docs/Network",
+    "docs/Forensics/index.md",
+    "docs/Forensics/index.md.tmp.231538.5f587bf6beee",
+    "docs/Forensics",
+    "docs/Cryptography/index.md",
+    "docs/Cryptography/index.md.tmp.231538.defd278ab59c",
+    "docs/Cryptography",
+    "mkdocs.yml.tmp.231538.cb3347884c77",
+    "docs/stylesheets/extra.css",
+    "docs/stylesheets",
+    "docs/index.md",
+    "index.md",
+    "Network/very_very_Hidden.md",
+    "Network/webnet0.md",
+    "Network/webnet1.md",
+    "README.md",
+    "Network/XC18-No_Output_But_The_Secret_Leaked.md",
+    "docs/Network/XC18-No_Output_But_The_Secret_Leaked.md",
+    "docs/Network/Rogue_Tower.md",
+    "docs/Network/FindAndOpen.md",
+    "docs/Forensics/flags_are_stepic.md",
+    "docs/Forensics/Weird_File.md",
+    "docs/Forensics/Timeline_1.md",
+    "docs/Forensics/Timeline_0.md",
+    "docs/Forensics/Forensics_Git_2.md",
+    "docs/Forensics/Forensics_Git_1.md",
+    "docs/Forensics/Forensics_Git_0.md",
+    "docs/Cryptography/new_caesar.md",
+    "docs/Cryptography/HideToSee.md",
+    "docs/Cryptography/Mr-Worldwide.md",
+    "docs/Cryptography/la_cifra_de.md"
+  ]
+}
