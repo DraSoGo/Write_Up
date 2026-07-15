@@ -1,0 +1,55 @@
+:root {
+  --md-primary-fg-color: #C4612F;
+  --md-primary-fg-color--light: #D87845;
+  --md-primary-fg-color--dark: #A94E22;
+}
+
+[data-md-color-scheme="custom-light"] {
+  --md-default-bg-color: #F7F4EF;
+  --md-default-fg-color: #1F2421;
+  --md-default-fg-color--light: #5C635D;
+  --md-code-bg-color: #FBF9F5;
+  --md-code-fg-color: #1F2421;
+  --md-typeset-a-color: #C4612F;
+}
+
+body {
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fraunces', 'DM Serif Display', serif;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset code {
+  background-color: #FBF9F5;
+  border: 1px solid #E7E1D7;
+  border-radius: 4px;
+  padding: 0.1em 0.4em;
+}
+
+.md-typeset pre > code {
+  border: none;
+  padding: 0.8em;
+}
+
+.md-button {
+  border-radius: 999px;
+  transition: transform 0.2s ease;
+}
+
+.md-button:hover {
+  transform: translateY(-2px);
+}
+
+.md-nav__link--active {
+  color: var(--md-primary-fg-color);
+  font-weight: 500;
+}
+
+.md-content {
+  max-width: 50rem;
+  margin: 0 auto;
+}

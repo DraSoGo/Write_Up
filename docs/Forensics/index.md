@@ -1,0 +1,12 @@
+# Forensics Challenges
+
+Digital forensics challenges involving file analysis, steganography, and data recovery.
+
+## PicoCTF
+
+- [Flags are Stepic](flags_are_stepic.md)
+- [Timeline 0](Timeline_0.md)
+- [Timeline 1](Timeline_1.md)
+- [Forensics Git 0](Forensics_Git_0.md)
+- [Forensics Git 1](Forensics_Git_1.md)
+- [Forensics Git 2](Forensics_Git_2.md)

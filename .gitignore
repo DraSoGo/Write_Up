@@ -1,0 +1,6 @@
+.obsidian/
+site/
+.DS_Store
+*.pyc
+__pycache__/
+.git/
