@@ -1,0 +1,13 @@
+```txt
+Ta _7N6DDDhlg:W3D_H3C31N__0D3ef sHR053F38N43D0F i33___NA
+```
+
+จามชื่อโจทย์เลย rail fence
+
+![[Pasted image 20260710132707.png]]
+
+WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_D00AFDD3
+
+```
+picoCTF{WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_D00AFDD3}
+```
