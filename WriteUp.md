@@ -11,6 +11,9 @@
 ### Pico CTF
 - [[FindAndOpen]]
 - [[Rogue_Tower]]
+- [[webnet0]]
+- [[webnet1]]
+- [[very_very_Hidden]]
 ### Ovenbreak
 - [[XC18-No_Output_But_The_Secret_Leaked]]
 ---
