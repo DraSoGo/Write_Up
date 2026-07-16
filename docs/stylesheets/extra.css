@@ -13,9 +13,21 @@
   --md-typeset-a-color: #C4612F;
 }
 
+[data-md-color-scheme="default"] .highlight,
+[data-md-color-scheme="default"] .md-typeset pre > code {
+  background-color: #2B2B2B !important;
+  color: #E8E6E3 !important;
+}
+
 [data-md-color-scheme="slate"] {
   --md-code-bg-color: #2B2B2B;
   --md-code-fg-color: #E8E6E3;
+}
+
+[data-md-color-scheme="slate"] .highlight,
+[data-md-color-scheme="slate"] .md-typeset pre > code {
+  background-color: #2B2B2B !important;
+  color: #E8E6E3 !important;
 }
 
 [data-md-color-scheme="custom-light"] {
