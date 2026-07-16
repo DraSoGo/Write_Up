@@ -8,7 +8,7 @@ theme:
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: custom-light
+      scheme: default
       primary: deep orange
       accent: deep orange
       toggle:
