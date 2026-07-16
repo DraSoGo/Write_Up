@@ -16,6 +16,10 @@
 [data-md-color-scheme="default"] .highlight,
 [data-md-color-scheme="default"] .md-typeset pre > code {
   background-color: #2B2B2B !important;
+}
+
+[data-md-color-scheme="default"] .highlight *,
+[data-md-color-scheme="default"] .md-typeset pre > code * {
   color: #E8E6E3 !important;
 }
 
@@ -27,6 +31,10 @@
 [data-md-color-scheme="slate"] .highlight,
 [data-md-color-scheme="slate"] .md-typeset pre > code {
   background-color: #2B2B2B !important;
+}
+
+[data-md-color-scheme="slate"] .highlight *,
+[data-md-color-scheme="slate"] .md-typeset pre > code * {
   color: #E8E6E3 !important;
 }
 
