@@ -1,4 +1,4 @@
-# Forensics
+ Forensics
 ### Pico CTF
 - [[flags_are_stepic]]
 - [[Timeline_0]]

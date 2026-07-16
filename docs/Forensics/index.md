@@ -10,3 +10,6 @@ Digital forensics challenges involving file analysis, steganography, and data re
 - [Forensics Git 0](Forensics_Git_0.md)
 - [Forensics Git 1](Forensics_Git_1.md)
 - [Forensics Git 2](Forensics_Git_2.md)
+- [Bitlocker-2](Bitlocker-2.md)
+- [m00nwalk2](m00nwalk2.md)
+- [SideChannel](SideChannel.md)

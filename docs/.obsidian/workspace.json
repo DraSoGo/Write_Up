@@ -13,15 +13,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "8a8690eefe7a0a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensics/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "df68c2c5b6c71c25",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/clue3.png"
+              },
+              "icon": "lucide-image",
+              "title": "clue3"
+            }
+          },
+          {
+            "id": "4df8d98a5b33d5e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensics/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "9c59c3143ab3b8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensics/SideChannel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SideChannel"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,44 +238,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "cbaa81906e4aadd4",
+  "active": "9c59c3143ab3b8a9",
   "lastOpenFiles": [
+    "Forensics/index.md",
+    "Forensics/SideChannel.md",
+    "assets/Pasted image 20260716144907.png",
+    "WriteUp.md",
+    "assets/clue1.png",
+    "assets/clue2.png",
+    "assets/clue3.png",
+    "assets/message.png",
+    "Forensics/m00nwalk2.md",
+    "Forensics/Forensics_Git_2.md",
+    "Forensics/Bitlocker-2.md",
+    "Forensics/flags_are_stepic.md",
+    "index.md",
+    "Network/index.md",
+    "Cryptography/index.md",
+    "Network/index.md.tmp.557198.32ee9b3463e4",
     "Cryptography/basic-mod1.md",
     "Network/very_very_Hidden.md",
-    "Network/index.md",
-    "WriteUp.md",
-    "index.md",
-    "Cryptography/index.md",
     "Cryptography/Flags.md",
     "Network/webnet0.md",
     "Network/webnet1.md",
-    "Forensics/flags_are_stepic.md",
     "Network/XC18-No_Output_But_The_Secret_Leaked.md",
     "Network/Rogue_Tower.md",
     "Network/FindAndOpen.md",
     "Forensics/Weird_File.md",
     "Forensics/Timeline_1.md",
     "Forensics/Timeline_0.md",
-    "Forensics/Forensics_Git_2.md",
     "Forensics/Forensics_Git_1.md",
     "Forensics/Forensics_Git_0.md",
     "Cryptography/transposition-trial.md",
     "Cryptography/Tapping.md",
-    "Cryptography/substitution2.md",
-    "Cryptography/substitution1.md",
-    "Cryptography/ReadMyCert.md",
-    "Cryptography/rail-fence.md",
-    "Cryptography/Passwords_as_Keys.md",
     "assets/Pasted image 20260715200414.png",
     "docs/assets/Pasted image 20260715200414.png",
     "docs/assets/Pasted image 20260715200259.png",
     "docs/assets/Pasted image 20260715200243.png",
     "docs/assets/Pasted image 20260715200210.png",
-    "docs/assets/Pasted image 20260715200157.png",
-    "docs/assets/Pasted image 20260715200138.png",
-    "docs/assets/Pasted image 20260715195745.png",
-    "docs/assets/Pasted image 20260715195635.png",
-    "docs/assets/Pasted image 20260715195455.png",
     "docs/assets",
     "docs/Network/index.md.tmp.231538.e6ba2951becb",
     "docs/Network",
@@ -229,7 +284,6 @@
     "docs/Cryptography/index.md.tmp.231538.defd278ab59c",
     "docs/Cryptography",
     "mkdocs.yml.tmp.231538.cb3347884c77",
-    "docs/stylesheets/extra.css",
-    "docs/stylesheets"
+    "docs/stylesheets/extra.css"
   ]
 }
