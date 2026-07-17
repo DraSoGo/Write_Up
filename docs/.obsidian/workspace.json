@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensics/index.md",
+                "file": "Network/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
+            }
+          },
+          {
+            "id": "f9cc83218c81fd01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/cipher-puzzle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cipher-puzzle"
             }
           },
           {
@@ -67,16 +81,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensics/SideChannel.md",
+                "file": "Network/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SideChannel"
+              "title": "index"
+            }
+          },
+          {
+            "id": "b50595013855356e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "befccaacc29af08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "b9b9608b840b1afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/love-letter-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "love-letter-1"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,44 +294,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "9c59c3143ab3b8a9",
+  "active": "f9cc83218c81fd01",
   "lastOpenFiles": [
+    "Network/index.md",
+    "assets/Pasted image 20260717190747.png",
+    "Network/cipher-puzzle.md",
+    "assets/Pasted image 20260717191102.png",
+    "assets/Pasted image 20260717191010.png",
+    "assets/Pasted image 20260717190904.png",
+    "assets/Pasted image 20260717190817.png",
+    "assets/Pasted image 20260717190036.png",
+    "assets/Pasted image 20260717185747.png",
+    "Network/love-letter-1.md",
     "Forensics/index.md",
+    "index.md",
+    "assets/Pasted image 20260717185952.png",
+    "assets/Pasted image 20260717185923.png",
+    "assets/Pasted image 20260717185824.png",
+    "Network/FindAndOpen.md",
+    "Network/XC18-No_Output_But_The_Secret_Leaked.md",
+    "Network/webnet0.md",
+    "Network/Whisper_in_the_Wire.md",
+    "Network/Upgraded_Router.md",
     "Forensics/SideChannel.md",
-    "assets/Pasted image 20260716144907.png",
     "WriteUp.md",
-    "assets/clue1.png",
-    "assets/clue2.png",
-    "assets/clue3.png",
-    "assets/message.png",
     "Forensics/m00nwalk2.md",
     "Forensics/Forensics_Git_2.md",
     "Forensics/Bitlocker-2.md",
     "Forensics/flags_are_stepic.md",
-    "index.md",
-    "Network/index.md",
     "Cryptography/index.md",
     "Network/index.md.tmp.557198.32ee9b3463e4",
     "Cryptography/basic-mod1.md",
     "Network/very_very_Hidden.md",
     "Cryptography/Flags.md",
-    "Network/webnet0.md",
     "Network/webnet1.md",
-    "Network/XC18-No_Output_But_The_Secret_Leaked.md",
     "Network/Rogue_Tower.md",
-    "Network/FindAndOpen.md",
     "Forensics/Weird_File.md",
     "Forensics/Timeline_1.md",
     "Forensics/Timeline_0.md",
-    "Forensics/Forensics_Git_1.md",
-    "Forensics/Forensics_Git_0.md",
-    "Cryptography/transposition-trial.md",
-    "Cryptography/Tapping.md",
-    "assets/Pasted image 20260715200414.png",
-    "docs/assets/Pasted image 20260715200414.png",
-    "docs/assets/Pasted image 20260715200259.png",
-    "docs/assets/Pasted image 20260715200243.png",
-    "docs/assets/Pasted image 20260715200210.png",
     "docs/assets",
     "docs/Network/index.md.tmp.231538.e6ba2951becb",
     "docs/Network",
