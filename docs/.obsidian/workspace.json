@@ -4,65 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45163844206e2937",
+        "id": "b8ad37dd3add342a",
         "type": "tabs",
         "children": [
           {
-            "id": "cbaa81906e4aadd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "8a8690eefe7a0a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "f9cc83218c81fd01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/cipher-puzzle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cipher-puzzle"
-            }
-          },
-          {
-            "id": "df68c2c5b6c71c25",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/clue3.png"
-              },
-              "icon": "lucide-image",
-              "title": "clue3"
-            }
-          },
-          {
-            "id": "4df8d98a5b33d5e7",
+            "id": "89eac69f5a7f65f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,12 +22,12 @@
             }
           },
           {
-            "id": "9c59c3143ab3b8a9",
+            "id": "283f80bb66fc9d10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/index.md",
+                "file": "Forensics/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -90,45 +36,17 @@
             }
           },
           {
-            "id": "b50595013855356e",
+            "id": "9b915b63e9819ac9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/index.md",
+                "file": "WriteUp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "befccaacc29af08d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "b9b9608b840b1afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/love-letter-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "love-letter-1"
+              "title": "WriteUp"
             }
           }
         ],
@@ -294,23 +212,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "f9cc83218c81fd01",
+  "active": "9b915b63e9819ac9",
   "lastOpenFiles": [
+    "Pasted image 20260720151259.png",
+    "Cryptography/Mini_RSA.md",
+    "Cryptography/index.md",
+    "Cryptography/substitution1.md",
+    "Cryptography/substitution2.md",
+    "Cryptography/Tapping.md",
+    "Cryptography/transposition-trial.md",
+    "Cryptography/credstuff.md",
+    "Cryptography/caesar.md",
+    "Cryptography/basic-mod2.md",
+    "Cryptography/basic-mod1.md",
+    "Forensics/index.md",
+    "assets/Pasted image 20260719141712.png",
+    "Forensics/RAM_Drift.md",
+    "assets/Pasted image 20260719141605.png",
+    "Forensics/PCAP_Secret.md",
+    "assets/Pasted image 20260719141501.png",
+    "assets/Pasted image 20260719140954.png",
+    "assets/Pasted image 20260719140925.png",
+    "Forensics/Mailroom_Echo.md",
+    "index.md",
     "Network/index.md",
-    "assets/Pasted image 20260717190747.png",
     "Network/cipher-puzzle.md",
+    "assets/clue3.png",
+    "Network/love-letter-1.md",
+    "assets/Pasted image 20260717190747.png",
     "assets/Pasted image 20260717191102.png",
     "assets/Pasted image 20260717191010.png",
     "assets/Pasted image 20260717190904.png",
-    "assets/Pasted image 20260717190817.png",
-    "assets/Pasted image 20260717190036.png",
-    "assets/Pasted image 20260717185747.png",
-    "Network/love-letter-1.md",
-    "Forensics/index.md",
-    "index.md",
-    "assets/Pasted image 20260717185952.png",
-    "assets/Pasted image 20260717185923.png",
-    "assets/Pasted image 20260717185824.png",
     "Network/FindAndOpen.md",
     "Network/XC18-No_Output_But_The_Secret_Leaked.md",
     "Network/webnet0.md",
@@ -318,20 +250,7 @@
     "Network/Upgraded_Router.md",
     "Forensics/SideChannel.md",
     "WriteUp.md",
-    "Forensics/m00nwalk2.md",
-    "Forensics/Forensics_Git_2.md",
-    "Forensics/Bitlocker-2.md",
-    "Forensics/flags_are_stepic.md",
-    "Cryptography/index.md",
     "Network/index.md.tmp.557198.32ee9b3463e4",
-    "Cryptography/basic-mod1.md",
-    "Network/very_very_Hidden.md",
-    "Cryptography/Flags.md",
-    "Network/webnet1.md",
-    "Network/Rogue_Tower.md",
-    "Forensics/Weird_File.md",
-    "Forensics/Timeline_1.md",
-    "Forensics/Timeline_0.md",
     "docs/assets",
     "docs/Network/index.md.tmp.231538.e6ba2951becb",
     "docs/Network",
